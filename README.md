@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (1)
-- [math](#math) (1)
+- [implementation](#implementation) (2)
+- [math](#math) (2)
 - [strings](#strings) (2)
 
 ---
@@ -30,12 +30,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 
 ### strings
 
