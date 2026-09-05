@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (2)
 - [strings](#strings) (2)
 
@@ -31,6 +31,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 
 ### math
 
