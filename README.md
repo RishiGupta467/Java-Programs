@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 4 |
+| 6 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (2)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -32,6 +32,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/1742/A%20-%20Sum/solution.java) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 
 ### math
 
@@ -46,6 +47,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 
 ---
 
