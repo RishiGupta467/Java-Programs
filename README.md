@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 4 |
+| 9 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [implementation](#implementation) (6)
+- [brute force](#brute-force) (2)
+- [implementation](#implementation) (7)
 - [math](#math) (2)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -24,6 +24,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
 ### implementation
 
@@ -31,6 +32,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/1742/A%20-%20Sum/solution.java) |
@@ -50,6 +52,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/RishiGupta467/Java-Programs/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 
